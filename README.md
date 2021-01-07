@@ -21,3 +21,7 @@ https://schools.ruthmiskin.com/training/view/1Xs1bPJC/S8UkSdqK
 # BBC Teach
 
 https://www.bbc.co.uk/teach/primary/zd7p47h
+
+### Education games
+
+- https://www.phonicsplay.co.uk/
