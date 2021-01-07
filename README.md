@@ -1,5 +1,4 @@
-# hello-world
-hi its me
+# Phonics Links
 
 ## Wednesday
 
@@ -18,3 +17,7 @@ https://schools.ruthmiskin.com/training/view/I6ZDdOBa/ivH2MqJv
 https://schools.ruthmiskin.com/training/view/EEZzI3Ra/2HLUeI3C
 
 https://schools.ruthmiskin.com/training/view/1Xs1bPJC/S8UkSdqK
+
+# BBC Teach
+
+https://www.bbc.co.uk/teach/primary/zd7p47h
