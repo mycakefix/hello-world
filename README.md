@@ -1,6 +1,7 @@
 # Phonics Links
 
 https://www.twinkl.co.uk/go/teach-lesson-packs-twinkl-go
+https://www.bbc.co.uk/bitesize/topics/zcqqtfr
 
 ## Wednesday
 
