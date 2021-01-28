@@ -5,6 +5,7 @@ https://opentechschool.github.io/python-beginners/en/loops.html
 https://realpython.com/beginners-guide-python-turtle/
 https://realpython.com/python-idle/
 
+https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/OurFirstTurtleProgram.html
 
 https://livebook.manning.com/book/hello-world-third-edition/chapter-1
 
