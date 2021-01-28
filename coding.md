@@ -7,3 +7,7 @@ https://realpython.com/python-idle/
 
 
 https://livebook.manning.com/book/hello-world-third-edition/chapter-1
+
+Youtube tutorial
+
+https://www.youtube.com/watch?v=KaYvfBkgr_k
